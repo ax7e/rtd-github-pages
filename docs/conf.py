@@ -266,6 +266,6 @@ html_context['downloads'].append( ('epub', '/' +REPO_NAME+ '/' +current_language
  
 html_context['display_github'] = True
 html_context['github_user'] = 'maltfield'
-html_context['github_repo'] = 'rtd-github-pages'
+html_context['github_repo'] = 'ahs_tutorial'
 html_context['github_version'] = 'master/docs/'
  
